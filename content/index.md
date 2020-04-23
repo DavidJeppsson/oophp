@@ -17,4 +17,4 @@ Sedan jag var ung har jag spenderat många timmar framför datorer men huvudsakl
 På fritiden upskattar jag att spela brädspel och dricka öl i gott sällskap.
 Utöver dessa stillasittande aktiviteter spelar jag även fortfarande ishockey men under väldigt anspråkslösa grunder. Jag tycker även om att vara ute i naturen.
 
-Ave!
+Ave.
