@@ -14,7 +14,7 @@ Mitt namn är David Jeppsson och jag läser programmet Webbprogramering på dist
 
 Sedan jag var ung har jag spenderat många timmar framför datorer men huvudsakligen i olika spel. För några år sedna fick jag ett intresset för programmering och gick en kurs i Javascript. Jag beslutade mig nu för att ta steget och utbilda mig innom programvaruutveckling.
 
-<På fritiden upskattar jag att spela brädspel och dricka öl i gott sällskap.
+På fritiden upskattar jag att spela brädspel och dricka öl i gott sällskap.
 Utöver dessa stillasittande aktiviteter spelar jag även fortfarande ishockey men under väldigt anspråkslösa grunder. Jag tycker även om att vara ute i naturen.
 
 Ave!
